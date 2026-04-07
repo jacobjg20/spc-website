@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+} 
+
+body {
+    margin: 0;
+}
+
+#header {
+    height: 100px;
+    margin: auto;
+    background-color: #283E63;
+
+}
+
+#classes{
+    background-color: #d4def0;
+    padding-top: 3rem;
+    margin-bottom: 3rem;
+
+}
+
+button {
+    width: 250px;
+    margin: 20px;
+}
+
+#about {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    width: 100%;
+    background-color: white;
+}
+
+#footer {
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+    font-size: 10px;
+}
+
+#footer p {
+    margin: 0;
+    padding: 0;
+}
